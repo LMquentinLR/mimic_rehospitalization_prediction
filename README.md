@@ -8,6 +8,7 @@ Focus on non-DL machine learning algorithms:
 - kNN
 - Naive Bayes
 - RandomForest
+- SVM
 
 ### AIQDSC28
 
